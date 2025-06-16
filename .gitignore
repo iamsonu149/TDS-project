@@ -1,0 +1,11 @@
+# files to ignore
+
+__pycache__/
+myenv/
+15q.yaml
+.env
+downloaded_threads/
+markdown_files/
+preprocess.py
+project-tds-virtual-ta-promptfoo.yaml
+steps.txt
